@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stonefly09.github.io/block-level-vs-file-level-storage/
